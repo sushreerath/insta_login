@@ -1,1 +1,1 @@
-file:///C:/Users/KIIT/Desktop/WEB/webtask/insta.html?#
+https://sushreerath.github.io/insta_login/insta.html
